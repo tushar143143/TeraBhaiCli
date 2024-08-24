@@ -25,4 +25,12 @@ TeraBhaiCli is a fun and quirky command-line interface (CLI) tool that allows yo
    cd TeraBhaiCli
    npm i
    ```
+2 **For Help** run
+```bash
+npm run cli
+```
+3 ** exp command **
+```bash
+npm run cli Bhai-Folder-Kesa-He-Anderse ./
+```
    
