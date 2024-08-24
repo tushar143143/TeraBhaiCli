@@ -28,7 +28,7 @@ TeraBhaiCli is a fun and quirky command-line interface (CLI) tool that allows yo
 2  **For Help** run
    ```bash
       npm run cli
-    ```
+ ```
     
 3  **exp command**
    ```bash
